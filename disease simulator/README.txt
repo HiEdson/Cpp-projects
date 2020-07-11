@@ -1,0 +1,3 @@
+In this project, i worked on the construction of a simulation and disease in a certain region. From the information received from an INPUT.TXT, the algorithm identifies those affected, the possibilities of others being affected and also the risks of death that each entity has.
+Dead entities are also contagious for a set time. There are conditions for an entity to be contagious or immune, the algorithm considers all possibilities and presents an effective result.
+Edson Casimiro
